@@ -1,0 +1,11 @@
+{
+  "name": "next-steps-desktop",
+  "owner": { "name": "Kaikai0522" },
+  "plugins": [
+    {
+      "name": "next-steps-desktop",
+      "source": "./",
+      "description": "next-steps (by Thariq Shihipar, MIT) with the 1/2/3/0 number keys also working in the Claude desktop app's prompt box."
+    }
+  ]
+}
